@@ -7,7 +7,7 @@ We recognized that college students are hungry zombies that are constantly in se
 ## What it does
 EventByte has two main features.
 1. A user can post an event without any sign in. They can add the event name, event date and time, event location, event description, organization name, and organization contact information (email).
-2, A user can view all the events in the event database, submitted by other users.
+2. A user can view all the events in the event database, submitted by other users.
 
 ## How we built it
 The app was developed on Xcode with Swift, which was connected to a MySQL database. We used Amazon's Relational Database Service (RDS) to store our event database and Amazon's Elastic Compute Cloud (EC2) to run our php program that connects MySQL to our app.
