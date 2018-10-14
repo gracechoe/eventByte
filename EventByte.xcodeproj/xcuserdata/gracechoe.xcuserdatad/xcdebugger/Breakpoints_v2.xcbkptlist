@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EventByte/AppDelegate.swift"
+            timestampString = "561187407.4620171"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1"
+            endingLineNumber = "1"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EventByte.AppDelegate.__deallocating_deinit"
+                  moduleName = "EventByte"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gracechoe/Desktop/Coding/EventByte/EventByte/AppDelegate.swift"
+                  timestampString = "561187771.471915"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EventByte.AppDelegate.__allocating_init() -&gt; EventByte.AppDelegate"
+                  moduleName = "EventByte"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gracechoe/Desktop/Coding/EventByte/EventByte/AppDelegate.swift"
+                  timestampString = "561187771.476018"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EventByte.AppDelegate.init() -&gt; EventByte.AppDelegate"
+                  moduleName = "EventByte"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gracechoe/Desktop/Coding/EventByte/EventByte/AppDelegate.swift"
+                  timestampString = "561187771.478476"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "EventByte"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gracechoe/Desktop/Coding/EventByte/EventByte/AppDelegate.swift"
+                  timestampString = "561187771.481549"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

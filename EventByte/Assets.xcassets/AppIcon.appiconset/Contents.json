@@ -1,0 +1,116 @@
+{
+  "images" : [
+    {
+      "size" : "20x20",
+      "idiom" : "iphone",
+      "filename" : "Screen_Shot_2018-10-14_at_9.24.17_AM_40x40-2.png",
+      "scale" : "2x"
+    },
+    {
+      "size" : "20x20",
+      "idiom" : "iphone",
+      "filename" : "Screen_Shot_2018-10-14_at_9.24.17_AM_40x40-3.png",
+      "scale" : "3x"
+    },
+    {
+      "size" : "29x29",
+      "idiom" : "iphone",
+      "filename" : "Screen_Shot_2018-10-14_at_9.24.17_AM_40x40-4.png",
+      "scale" : "2x"
+    },
+    {
+      "size" : "29x29",
+      "idiom" : "iphone",
+      "filename" : "Screen_Shot_2018-10-14_at_9.24.17_AM_40x40-5.png",
+      "scale" : "3x"
+    },
+    {
+      "size" : "40x40",
+      "idiom" : "iphone",
+      "filename" : "Screen_Shot_2018-10-14_at_9.24.17_AM_40x40.png",
+      "scale" : "2x"
+    },
+    {
+      "size" : "40x40",
+      "idiom" : "iphone",
+      "filename" : "Screen_Shot_2018-10-14_at_9.24.17_AM_40x40-1.png",
+      "scale" : "3x"
+    },
+    {
+      "size" : "60x60",
+      "idiom" : "iphone",
+      "filename" : "Screen_Shot_2018-10-14_at_9.24.17_AM_1_60x60.png",
+      "scale" : "2x"
+    },
+    {
+      "size" : "60x60",
+      "idiom" : "iphone",
+      "filename" : "Screen_Shot_2018-10-14_at_9.24.17_AM_1_60x60-1.png",
+      "scale" : "3x"
+    },
+    {
+      "size" : "20x20",
+      "idiom" : "ipad",
+      "filename" : "Screen_Shot_2018-10-14_at_9.24.17_AM_40x40-6.png",
+      "scale" : "1x"
+    },
+    {
+      "size" : "20x20",
+      "idiom" : "ipad",
+      "filename" : "Screen_Shot_2018-10-14_at_9.24.17_AM_40x40-7.png",
+      "scale" : "2x"
+    },
+    {
+      "size" : "29x29",
+      "idiom" : "ipad",
+      "filename" : "Screen_Shot_2018-10-14_at_9.24.17_AM_40x40-8.png",
+      "scale" : "1x"
+    },
+    {
+      "size" : "29x29",
+      "idiom" : "ipad",
+      "filename" : "Screen_Shot_2018-10-14_at_9.24.17_AM_40x40-9.png",
+      "scale" : "2x"
+    },
+    {
+      "size" : "40x40",
+      "idiom" : "ipad",
+      "filename" : "Screen_Shot_2018-10-14_at_9.24.17_AM_40x40-10.png",
+      "scale" : "1x"
+    },
+    {
+      "size" : "40x40",
+      "idiom" : "ipad",
+      "filename" : "Screen_Shot_2018-10-14_at_9.24.17_AM_40x40-11.png",
+      "scale" : "2x"
+    },
+    {
+      "size" : "76x76",
+      "idiom" : "ipad",
+      "filename" : "Screen_Shot_2018-10-14_at_9.24.17_AM_40x40-12.png",
+      "scale" : "1x"
+    },
+    {
+      "size" : "76x76",
+      "idiom" : "ipad",
+      "filename" : "Screen_Shot_2018-10-14_at_9.24.17_AM_40x40-13.png",
+      "scale" : "2x"
+    },
+    {
+      "size" : "83.5x83.5",
+      "idiom" : "ipad",
+      "filename" : "Screen_Shot_2018-10-14_at_9.24.17_AM_40x40-14.png",
+      "scale" : "2x"
+    },
+    {
+      "size" : "1024x1024",
+      "idiom" : "ios-marketing",
+      "filename" : "Screen Shot 2018-10-14 at 9.24.17 AM-8.png",
+      "scale" : "1x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}
