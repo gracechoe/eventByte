@@ -10,7 +10,7 @@ EventByte has two main features.
 2. A user can view all the events in the event database, submitted by other users.
 
 ## How we built it
-The app was developed on Xcode and used Swift, SQL, and PHP. We used Amazon's Relational Database Service (RDS) to store and retrieve event information from a database and Amazon's Elastic Compute Cloud (EC2) to run our php program that makes queries to the MySQL server for the app.
+The app was developed on Xcode and used Swift, SQL, and PHP. We implemented the AWS Relational Database Service (RDS) to store event information from a MySQL database and Amazon's Elastic Compute Cloud (EC2) to run our php program that makes queries to the database.
 
 ## Challenges we ran into
 1. Understanding how to set up and implement AWS and EC2
