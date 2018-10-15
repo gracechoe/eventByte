@@ -1,4 +1,4 @@
-# eventByte
+# EventByte
 iOS app to share and view free-food events on campus
 
 ## Inspiration
@@ -10,11 +10,12 @@ EventByte has two main features.
 2. A user can view all the events in the event database, submitted by other users.
 
 ## How we built it
-The app was developed on Xcode with Swift, which was connected to a MySQL database. We used Amazon's Relational Database Service (RDS) to store our event database and Amazon's Elastic Compute Cloud (EC2) to run our php program that connects MySQL to our app.
+The app was developed on Xcode and used Swift, SQL, and PHP. We used Amazon's Relational Database Service (RDS) to store and retrieve event information from a database and Amazon's Elastic Compute Cloud (EC2) to run our php program that makes queries to the MySQL server for the app.
 
 ## Challenges we ran into
-1. Setting up the AWS and EC2 account
+1. Understanding how to set up and implement AWS and EC2
 2. Using php to connect the SQL database to our iOS app
+3. Various bugs in swift code
 
 ## Accomplishments that we're proud of
 We are proud of learning Swift, Xcode, php, and MySQL for the first time, while also creating a product that can be practical and directly benefit our college community and our peers. It has the potential to increase student involvement in club activities and resolve the college student hunger crisis.
